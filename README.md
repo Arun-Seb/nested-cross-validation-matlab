@@ -317,17 +317,6 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## Contact
-
-**[Your Name]**  
-📧 Email: [your.email@institution.edu]  
-🔗 LinkedIn: [Your LinkedIn]  
-🐦 Twitter: [@YourHandle]  
-🌐 Website: [your-website.com]
-
-**Institution**: [Your University/Organization]  
-**Lab/Group**: [Your Research Lab]
-
 ---
 
 ## Acknowledgments
@@ -370,5 +359,6 @@ A: Yes, but you'll need to modify the performance metrics and potentially the cl
 If you find this project useful, please consider giving it a ⭐ on GitHub!
 
 ---
+
 
 **Made with ❤️ for reproducible research**
